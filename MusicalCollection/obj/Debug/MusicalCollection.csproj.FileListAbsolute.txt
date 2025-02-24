@@ -1,0 +1,10 @@
+C:\Users\329191-23\Desktop\lab1\lab1.V2_testing\MusicalCollection\bin\Debug\MusicalCollection.exe.config
+C:\Users\329191-23\Desktop\lab1\lab1.V2_testing\MusicalCollection\bin\Debug\MusicalCollection.exe
+C:\Users\329191-23\Desktop\lab1\lab1.V2_testing\MusicalCollection\bin\Debug\MusicalCollection.pdb
+C:\Users\329191-23\Desktop\lab1\lab1.V2_testing\MusicalCollection\obj\Debug\MusicalCollection.csproj.AssemblyReference.cache
+C:\Users\329191-23\Desktop\lab1\lab1.V2_testing\MusicalCollection\obj\Debug\MusicalCollection.Properties.Resources.resources
+C:\Users\329191-23\Desktop\lab1\lab1.V2_testing\MusicalCollection\obj\Debug\MusicalCollection.csproj.GenerateResource.cache
+C:\Users\329191-23\Desktop\lab1\lab1.V2_testing\MusicalCollection\obj\Debug\MusicalCollection.csproj.CoreCompileInputs.cache
+C:\Users\329191-23\Desktop\lab1\lab1.V2_testing\MusicalCollection\obj\Debug\MusicalCollection.exe
+C:\Users\329191-23\Desktop\lab1\lab1.V2_testing\MusicalCollection\obj\Debug\MusicalCollection.pdb
+C:\Users\329191-23\Desktop\lab1\lab1.V2_testing\MusicalCollection\obj\Debug\MusicalCollection.MusicCollectionForm.resources

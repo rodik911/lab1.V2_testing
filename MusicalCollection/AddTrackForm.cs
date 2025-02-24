@@ -21,6 +21,8 @@ namespace MusicalCollection
             this.Text = "Добавить трек";
             this.Width = 300;
             this.Height = 200;
+            this.Icon = Icon.ExtractAssociatedIcon("C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\free-icon-music-7797380.ico");
+            this.BackColor = Color.FromName("LightSteelBlue");
             var artistLabel = new Label
             {
                 Text = "Исполнитель:",

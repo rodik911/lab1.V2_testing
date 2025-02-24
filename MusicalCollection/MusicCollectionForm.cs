@@ -23,6 +23,8 @@ namespace MusicalCollection
             this.Text = "Управление музыкальной коллекцией";
             this.Width = 500;
             this.Height = 400;
+            this.Icon = Icon.ExtractAssociatedIcon("C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\free-icon-music-7797380.ico");
+            this.BackColor = Color.FromName("LightSteelBlue");
             CreateControls();
             musicCollection = new MusicCollection(listView);
         }
