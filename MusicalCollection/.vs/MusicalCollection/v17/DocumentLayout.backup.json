@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\",
+  "WorkspaceRootPath": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\musiccollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:musiccollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\addtrackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:addtrackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\addtrackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\addtrackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:addtrackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\searchartistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:searchartistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\searchartistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\searchartistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:searchartistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\musiccollectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:musiccollectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\musiccollectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\musiccollectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:musiccollectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|c:\\users\\329191-23\\desktop\\lab1\\lab1.v2_testing\\musicalcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\musictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\musictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:musictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|c:\\users\\329191-23\\desktop\\lab_4\\lab1.v2_testing\\musicalcollection\\musiccollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:musiccollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\addtrackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:addtrackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\searchartistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:searchartistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\musiccollectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEA8D6C-71C7-43F7-B620-860E428FC2A2}|MusicalCollection.csproj|solutionrelative:musiccollectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,91 +46,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\Program.cs",
+              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T06:36:52.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "MusicCollectionForm.cs",
-              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\MusicCollectionForm.cs",
+              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\MusicCollectionForm.cs",
               "RelativeDocumentMoniker": "MusicCollectionForm.cs",
-              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\MusicCollectionForm.cs*",
-              "RelativeToolTip": "MusicCollectionForm.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\MusicCollectionForm.cs",
+              "RelativeToolTip": "MusicCollectionForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T06:34:53.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MusicCollectionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\MusicCollectionForm.cs",
+              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\MusicCollectionForm.cs",
               "RelativeDocumentMoniker": "MusicCollectionForm.cs",
-              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\MusicCollectionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "MusicCollectionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\MusicCollectionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MusicCollectionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T06:34:38.381Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "SearchArtistForm.cs",
-              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\SearchArtistForm.cs",
+              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\SearchArtistForm.cs",
               "RelativeDocumentMoniker": "SearchArtistForm.cs",
-              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\SearchArtistForm.cs*",
-              "RelativeToolTip": "SearchArtistForm.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBUAAAA+AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\SearchArtistForm.cs",
+              "RelativeToolTip": "SearchArtistForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T06:33:19.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "SearchArtistForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\SearchArtistForm.cs",
+              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\SearchArtistForm.cs",
               "RelativeDocumentMoniker": "SearchArtistForm.cs",
-              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\SearchArtistForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "SearchArtistForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\SearchArtistForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SearchArtistForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T06:33:12.631Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AddTrackForm.cs",
-              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\AddTrackForm.cs",
+              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\AddTrackForm.cs",
               "RelativeDocumentMoniker": "AddTrackForm.cs",
-              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\AddTrackForm.cs*",
+              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\AddTrackForm.cs*",
               "RelativeToolTip": "AddTrackForm.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T06:31:22.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AddTrackForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\AddTrackForm.cs",
+              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\AddTrackForm.cs",
               "RelativeDocumentMoniker": "AddTrackForm.cs",
-              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\AddTrackForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\AddTrackForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "RelativeToolTip": "AddTrackForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T06:31:15.959Z",
@@ -138,32 +142,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MusicCollection.cs",
-              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\MusicCollection.cs",
-              "RelativeDocumentMoniker": "MusicCollection.cs",
-              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\MusicCollection.cs",
-              "RelativeToolTip": "MusicCollection.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MusicTrack.cs",
+              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\MusicTrack.cs",
+              "RelativeDocumentMoniker": "MusicTrack.cs",
+              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\MusicTrack.cs",
+              "RelativeToolTip": "MusicTrack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvycAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T06:26:23.408Z",
+              "WhenOpened": "2025-02-24T06:23:06.747Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MusicTrack.cs",
-              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\MusicTrack.cs",
-              "RelativeDocumentMoniker": "MusicTrack.cs",
-              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\MusicTrack.cs",
-              "RelativeToolTip": "MusicTrack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "MusicCollection.cs",
+              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\MusicCollection.cs",
+              "RelativeDocumentMoniker": "MusicCollection.cs",
+              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\MusicCollection.cs",
+              "RelativeToolTip": "MusicCollection.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T06:23:06.747Z"
+              "WhenOpened": "2025-02-24T06:26:23.408Z",
+              "EditorCaption": ""
             }
           ]
         }

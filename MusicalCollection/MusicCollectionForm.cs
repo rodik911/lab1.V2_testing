@@ -18,29 +18,32 @@ namespace MusicalCollection
         private Button removeTrackButton;
         private Button searchByArtistButton;
         private Button sortByYearButton;
+        private Button reloadButton;
         public MusicCollectionForm()
         {
             this.Text = "Управление музыкальной коллекцией";
-            this.Width = 500;
+            this.Width = 670;
             this.Height = 400;
-            this.Icon = Icon.ExtractAssociatedIcon("C:\\Users\\329191-23\\Desktop\\lab1\\lab1.V2_testing\\MusicalCollection\\free-icon-music-7797380.ico");
+            this.Icon = Icon.ExtractAssociatedIcon("C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\free-icon-music-7797380.ico");
             this.BackColor = Color.FromName("LightSteelBlue");
+            this.CenterToScreen();
             CreateControls();
             musicCollection = new MusicCollection(listView);
+
         }
         private void CreateControls()
         {
             listView = new ListView
             {
                 Location = new System.Drawing.Point(10, 10),
-                Size = new System.Drawing.Size(480, 300),
+                Size = new System.Drawing.Size(630, 300),
                 View = View.Details,
                 FullRowSelect = true
             };
-            listView.Columns.Add("Исполнитель", 150);
-            listView.Columns.Add("Название", 150);
-            listView.Columns.Add("Жанр", 100);
-            listView.Columns.Add("Год", 50);
+            listView.Columns.Add("Исполнитель", 200);
+            listView.Columns.Add("Название", 200);
+            listView.Columns.Add("Жанр", 120);
+            listView.Columns.Add("Год", 80);
             addTrackButton = new Button
             {
                 Location = new System.Drawing.Point(10, 320),
@@ -85,7 +88,7 @@ namespace MusicalCollection
             {
                 Location = new System.Drawing.Point(230, 320),
                 Text = "Поиск по исполнителю",
-                Size = new System.Drawing.Size(120, 25)
+                Size = new System.Drawing.Size(140, 25)
             };
             searchByArtistButton.Click += (sender, e) =>
             {
@@ -98,16 +101,24 @@ namespace MusicalCollection
             };
             sortByYearButton = new Button
             {
-                Location = new System.Drawing.Point(360, 320),
+                Location = new System.Drawing.Point(380, 320),
                 Text = "Сортировать по году",
                 Size = new System.Drawing.Size(120, 25)
             };
             sortByYearButton.Click += (sender, e) => musicCollection.SortByYear();
+            reloadButton = new Button
+            {
+                Location = new System.Drawing.Point(510, 320),
+                Text = "Сбросить фильтрацию",
+                Size = new System.Drawing.Size(140, 25)
+            };
+            reloadButton.Click += (sender, e) => musicCollection.ReloadTracks();
             this.Controls.Add(listView);
             this.Controls.Add(addTrackButton);
             this.Controls.Add(removeTrackButton);
             this.Controls.Add(searchByArtistButton);
             this.Controls.Add(sortByYearButton);
+            this.Controls.Add(reloadButton);
         }
 
     }

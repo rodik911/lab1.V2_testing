@@ -71,4 +71,8 @@ track.Genre.ToString(), track.Year.ToString() }));
         }
         MessageBox.Show("Сортировка по году выполнена.");
     }
+    public void ReloadTracks()
+    {
+        LoadTracks();
+    }
 }
