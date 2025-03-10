@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml;
+using Newtonsoft.Json;
+using System.IO;
+
 
 public class MusicCollection
 {
@@ -74,5 +78,37 @@ track.Genre.ToString(), track.Year.ToString() }));
     public void ReloadTracks()
     {
         LoadTracks();
+    }
+
+    public void ExportCollection(string filePath)
+    {
+        var json = JsonConvert.SerializeObject(tracks, Newtonsoft.Json.Formatting.Indented);
+        File.WriteAllText(filePath, json);
+        MessageBox.Show("Коллекция экспортирована.");
+    }
+
+    public void ImportCollection(string filePath)
+    {
+        if (File.Exists(filePath))
+        {
+            var json = File.ReadAllText(filePath);
+            var importedTracks = JsonConvert.DeserializeObject<List<MusicTrack>>(json);
+            if (importedTracks != null)
+            {
+                tracks.AddRange(importedTracks);
+                LoadTracks();
+                MessageBox.Show("Коллекция импортирована.");
+            }
+        }
+        else
+        {
+            MessageBox.Show("Файл не найден.");
+        }
+    }
+
+    public void BackupCollection(string backupFilePath)
+    {
+        ExportCollection(backupFilePath);
+        MessageBox.Show("Резервная копия коллекции создана.");
     }
 }

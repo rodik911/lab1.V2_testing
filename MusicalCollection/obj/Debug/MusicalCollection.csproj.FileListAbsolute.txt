@@ -18,3 +18,6 @@ C:\Users\329191-23\Desktop\lab_4\lab1.V2_testing\MusicalCollection\obj\Debug\Mus
 C:\Users\329191-23\Desktop\lab_4\lab1.V2_testing\MusicalCollection\obj\Debug\MusicalCollection.csproj.CoreCompileInputs.cache
 C:\Users\329191-23\Desktop\lab_4\lab1.V2_testing\MusicalCollection\obj\Debug\MusicalCollection.exe
 C:\Users\329191-23\Desktop\lab_4\lab1.V2_testing\MusicalCollection\obj\Debug\MusicalCollection.pdb
+C:\Users\329191-23\Desktop\lab_4\lab1.V2_testing\MusicalCollection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\329191-23\Desktop\lab_4\lab1.V2_testing\MusicalCollection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\329191-23\Desktop\lab_4\lab1.V2_testing\MusicalCollection\obj\Debug\MusicalC.F6E6422A.Up2Date

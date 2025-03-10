@@ -19,11 +19,13 @@ namespace MusicalCollection
         private Button searchByArtistButton;
         private Button sortByYearButton;
         private Button reloadButton;
+        private Button exportFileButton;
+        private Button importFileButton;
         public MusicCollectionForm()
         {
             this.Text = "Управление музыкальной коллекцией";
             this.Width = 670;
-            this.Height = 400;
+            this.Height = 420;
             this.Icon = Icon.ExtractAssociatedIcon("C:\\Users\\329191-23\\Desktop\\lab_4\\lab1.V2_testing\\MusicalCollection\\free-icon-music-7797380.ico");
             this.BackColor = Color.FromName("LightSteelBlue");
             this.CenterToScreen();
@@ -113,12 +115,53 @@ namespace MusicalCollection
                 Size = new System.Drawing.Size(140, 25)
             };
             reloadButton.Click += (sender, e) => musicCollection.ReloadTracks();
+
+            exportFileButton = new Button
+            {
+                Location = new System.Drawing.Point(10, 350),
+                Text = "Экспорт коллекции",
+                Size = new System.Drawing.Size(120,25)
+            };
+            exportFileButton.Click += (sender, e) => 
+            {
+                using (SaveFileDialog saveFileDialog = new SaveFileDialog())
+                {
+                    saveFileDialog.Filter = "JSON files (*.json)|*.json|All files (*.*)|*.*";
+                    saveFileDialog.Title = "Сохранить коллекцию как";
+                    if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                    {
+                        string filePath = saveFileDialog.FileName;
+                        musicCollection.ExportCollection(filePath);
+                    }
+                }
+            };
+            importFileButton = new Button
+            {
+                Location = new System.Drawing.Point(140, 350),
+                Text = "Импорт коллекции",
+                Size = new System.Drawing.Size(120, 25)
+            };
+            importFileButton.Click += (sender, e) =>
+            {
+                using (OpenFileDialog openFileDialog = new OpenFileDialog())
+                {
+                    openFileDialog.Filter = "JSON files (*.json)|*.json|All files (*.*)|*.*";
+                    openFileDialog.Title = "Выберите файл для импорта коллекции";
+                    if (openFileDialog.ShowDialog() == DialogResult.OK)
+                    {
+                        string filePath = openFileDialog.FileName;
+                        musicCollection.ImportCollection(filePath);
+                    }
+                }
+            };
             this.Controls.Add(listView);
             this.Controls.Add(addTrackButton);
             this.Controls.Add(removeTrackButton);
             this.Controls.Add(searchByArtistButton);
             this.Controls.Add(sortByYearButton);
             this.Controls.Add(reloadButton);
+            this.Controls.Add(exportFileButton);
+            this.Controls.Add(importFileButton);
         }
 
     }
